@@ -57,8 +57,4 @@ Demonstrar como criar animações complexas e visualmente agradáveis utilizando
 Este tipo de técnica é amplamente utilizado em loaders modernos e microinterações de interface.
 
 ---
-
-## 📜 Licença
-
-Uso livre para fins educacionais e projetos pessoais.
 <img width="347" height="167" alt="image" src="https://github.com/user-attachments/assets/b9fec44d-5bb8-4436-90be-794057c80162" />
